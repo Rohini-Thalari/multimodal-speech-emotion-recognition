@@ -94,6 +94,3 @@ LSTM | 64.2 | 64.7 | 66.1 | 65.0
 MDRE (4-class) | **75.3** | - | 71.8 | -
 E1 (4-class) | 70.3 | 67.5 | **73.2** | 65.5
 **E2** | 70.1 | **71.8** | 72.9 | **71.5**
-
-For more details, please refer to the [report](https://arxiv.org/abs/1904.06022)
-
