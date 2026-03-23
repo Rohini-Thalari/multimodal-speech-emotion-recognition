@@ -8,7 +8,6 @@ The hand-crafted feature vectors obtained are used to train two types of models:
 1. ML-based: Logistic Regression, SVMs, Random Forest, eXtreme Gradient Boosting and Multinomial Naive-Bayes.
 2. DL-based: Multi-Layer Perceptron, LSTM Classifier
 
-This project was carried as a course project for the course CS 698 - Computational Audio taught by [Prof. Richard Mann](https://cs.uwaterloo.ca/~mannr/) at the University of Waterloo. For a more detailed explanation, please check the [report](https://arxiv.org/abs/1904.06022).
 
 ## Datasets
 The [IEMOCAP](https://link.springer.com/content/pdf/10.1007%2Fs10579-008-9076-6.pdf) dataset was used for all the experiments in this work. Please refer to the [report](https://arxiv.org/abs/1904.06022) for a detailed explanation of pre-processing steps applied to the dataset.
@@ -98,14 +97,3 @@ E1 (4-class) | 70.3 | 67.5 | **73.2** | 65.5
 
 For more details, please refer to the [report](https://arxiv.org/abs/1904.06022)
 
-## Citation
-If you find this work useful, please cite:
-
-```
-@article{sahu2019multimodal,
-  title={Multimodal Speech Emotion Recognition and Ambiguity Resolution},
-  author={Sahu, Gaurav},
-  journal={arXiv preprint arXiv:1904.06022},
-  year={2019}
-}
-```
