@@ -9,9 +9,6 @@ The hand-crafted feature vectors obtained are used to train two types of models:
 2. DL-based: Multi-Layer Perceptron, LSTM Classifier
 
 
-## Datasets
-The [IEMOCAP](https://link.springer.com/content/pdf/10.1007%2Fs10579-008-9076-6.pdf) dataset was used for all the experiments in this work. Please refer to the [report](https://arxiv.org/abs/1904.06022) for a detailed explanation of pre-processing steps applied to the dataset.
-
 ## Requirements
 All the experiments have been tested using the following libraries:
 - xgboost==0.82
